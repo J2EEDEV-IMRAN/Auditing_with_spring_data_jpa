@@ -11,7 +11,7 @@ import static javax.persistence.EnumType.STRING;
 import static javax.persistence.TemporalType.TIMESTAMP;
 
 /**
- * @author Naresh Joshi
+ * @author Imran Hossain
  */
 
 @Entity
